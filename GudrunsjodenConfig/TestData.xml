@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+ <ArticleDetails>
+
+  <TestData key="ArticleName" value="WebdriverDemo_Article_260813" />
+   <TestData key="Domain" value="Science" />
+   <TestData key="Field" value="Genetics" />
+   <TestData key="Speciality" value="Neurogenomics" />
+   <TestData key="UserPassword" value="test@v2" />
+   
+   <TestData key="AEName" value="William Davies" />
+   <TestData key="AEEmail" value="daviesw4@cardiff.ac.uk.test" />
+
+   <TestData key="SCEName" value="Robert W Williams" />
+  
+
+   <TestData key="RE1FirstName" value="Thomas"/>
+   <TestData key="RE1LastName" value="Coyle"/>
+   <TestData key="RE1FullName" value="Thomas Coyle"/>
+   <TestData key="RE1Email" value="Thomas.Coyle@utsa.edu.test"/>
+   <TestData key="RE1Password" value="test@v2"/>
+
+  
+   
+ </ArticleDetails>
+ <UserDetails>
+
+
+    
+ </UserDetails>
+</Configurations>

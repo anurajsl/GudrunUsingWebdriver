@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+
+  <TestSuite>
+
+
+    <TestData key="DeploymentConnectionString" value="Data Source=192.168.0.12;Initial Catalog=Deployment;Integrated Security=SSPI;Max Pool Size=200;"/>
+
+
+
+  </TestSuite>
+
+
+
+</Configurations>

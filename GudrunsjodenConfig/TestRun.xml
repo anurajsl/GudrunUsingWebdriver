@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Configarations>
+  
+  <!--<TestRunSettings key="ServerURL"  value="http://one.test.com/"  />-->
+  <TestRunSettings key="ServerURL"  value="http://one.test.com/"  />
+  
+</Configarations>

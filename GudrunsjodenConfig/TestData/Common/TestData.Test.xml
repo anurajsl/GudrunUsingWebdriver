@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+
+  <TestSuite>
+
+
+
+    <TestData key="NewUserFirstName" value="Demo"/>
+    <TestData key="NewUserLastName" value="User"/>
+    <TestData key="NewUserEpost" value="demouser@test.com"/>
+    <TestData key="NewUserCustCode" value="Addisson"/>
+    
+    <TestData key="NewUserAdress" value="Block B2, Stockholm, Sweden"/>
+    <TestData key="NewUserPostnummer" value="44567"/>
+    <TestData key="NewUserStad" value="Stockholm"/>
+    <TestData key="NewUserTelefon" value="33456678"/>
+
+    
+    
+
+
+
+
+   
+    
+  </TestSuite>
+
+
+
+  
+</Configurations>
